@@ -53,5 +53,5 @@ The Olympics dataset is fetched from [Google Drive](https://drive.google.com/fil
 OlympicsXplorer is released under the [MIT License](LICENSE).
 
 ## Authors
-
+- [Shubham Sharma](https://github.com//shubham212001)
 - [Bhavesh Ajwani](https://github.com//bhavesh1409)
